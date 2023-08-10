@@ -1,12 +1,4 @@
-<head>
-  <style>
-    img{
-    width:200px;
-    height:150px:
-    float-left;
-    }
-  </style>
- </head>
+
  <body>
 
 ### Hi there 👋
