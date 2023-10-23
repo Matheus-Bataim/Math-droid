@@ -1,13 +1,6 @@
 
  <body>
-
-### Hi there 👋
-<h1> Matheus Bataim</h1>
-<img src="programar.gif">
-<p> Estudando de TI</p>
 </body>
-<!--
-**Math-droid/Math-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
